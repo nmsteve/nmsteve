@@ -6,7 +6,7 @@ I'm **Steve** from the vibrant city of **Nairobi, Kenya** 🌍, and I'm a softwa
 
 My journey with computers began when I was just ten years old. The moment I witnessed a mouse controlling movements on the screen, I was utterly captivated. As time passed, my passion for computing only intensified.
 
-During my secondary education at Ony Join Secondary School (2012-2015), I delved into computer studies, which introduced me to the world of programming. It was there that I developed a deep passion for software development.
+During my secondary education (2012-2015), I delved into computer studies, which introduced me to the world of programming. It was there that I developed a deep passion for software development.
 
 My enthusiasm for the field led me to pursue a Bachelor of Science in Computer Technology from 2017 to 2021 at the university. This higher education exposed me to broader concepts. In 2018, amidst the emerging technologies, I fell in love with blockchain.
 
